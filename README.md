@@ -1,36 +1,33 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Dee
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Dee!
 
-## I'm a Technical Marketer + Data Analyst for B2B AI Startups
+## 👩‍💻 I'm a Technical Marketer + Data Analyst for B2B AI Startups
 
-- I have 6 years of experience in data analytics, automation, and product marketing across Gen AI and SaaS startups.  
-- I currently work at @ [Alltius](https://www.alltius.ai) where I built full-funnel analytics, scaling SQLs 10x and web traffic 10x using PostHog & MixPanel.
-- Currently working on building AI workflows, AI voice agents and technical blogs at Alltius. 
-- Previously worked @ [Nanonets](https://www.nanonets.com) where I grew signups from 0 to 300+/month using SQL dashboards and behavioral insights.  
-- At @ [AbbVie](https://www.abbvie.com), I built an unsupervised Bayesian model based on research papers to predict disease trajectories using 100M+ patient records-now in production.  
-- I’ve automated 250+ marketing and analytics workflows using Zapier, Bedrock, Gumloop & OpenAI APIs.  
-- I hold an MS in Business Analytics from [UC Irvine](https://merage.uci.edu/), an MBA from [IIM Calcutta](https://www.iimcal.ac.in/), and a BTech from [IIT Bombay](https://www.iitb.ac.in/).   
-- I share thoughts on analytics, AI, and growth on [LinkedIn](https://www.linkedin.com/in/dhanashree-badhe/) and will start posting code on [GitHub](https://github.com).  
-
----
-
-## My GitHub Stats 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbadhe&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbadhe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[Product Marketer website]: [https://tiny.cc/dbadhe1]
-[linkedin]: [https://www.linkedin.com/in/dhanashree-badhe/]
-[gscholar]: [https://scholar.google.com/citations?user=zJOCEIwAAAAJ&hl=en]
+- 🧠 6 years of experience at the intersection of **data analytics, automation, and product marketing** for Gen AI and SaaS companies.
+- ⚡ Currently @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic 10x using PostHog, MixPanel & full-funnel attribution.
+- 🤖 Building **AI workflows**, **voice agents**, and **technical blog content** that converts and educates.
+- 📈 Previously @ [Nanonets](https://www.nanonets.com) — grew signups from 0 ➝ 300+/month using behavior analytics & SQL dashboards.
+- 🧬 Built an **unsupervised Bayesian model** @ [AbbVie](https://www.abbvie.com) for disease prediction on 100M+ records — now in production.
+- ⚙️ Automated 250+ workflows using **Zapier, Gumloop, Bedrock**, and **OpenAI APIs** to drive marketing & analytics efficiency.
+- 🎓 MS in Business Analytics ([UC Irvine](https://merage.uci.edu)), MBA ([IIM Calcutta](https://www.iimcal.ac.in)), BTech ([IIT Bombay](https://www.iitb.ac.in)).
+- 🧪 I build AI side projects (currently building a **Marathi-native Perplexity clone**) and write about analytics, AI, and growth.
+- 🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/dhanashree-badhe/) | Coming soon: technical blogs + projects on [GitHub](https://github.com/dbadhe)
 
 ---
 
-## Connect With Me:
+## 📊 My GitHub Stats
 
-[<img align="left" alt="codeSTACKr | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/dhanashree-badhe/]
-
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbadhe&layout=compact&hide=java,html,css&theme=dracula)
+![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbadhe&show_icons=true&theme=dracula)
 
 ---
-Thanks for visiting! 
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/dhanashree-badhe/)](https://www.linkedin.com/in/dhanashree-badhe/)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://tiny.cc/dbadhe1)](https://tiny.cc/dbadhe1)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=google-scholar&link=https://scholar.google.com/citations?user=zJOCEIwAAAAJ&hl=en)](https://scholar.google.com/citations?user=zJOCEIwAAAAJ&hl=en)
+
+---
+
+Thanks for stopping by! 💜  
 
