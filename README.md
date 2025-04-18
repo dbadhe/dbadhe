@@ -3,10 +3,10 @@
 ## 👩‍💻 I'm a Technical Marketer + Data Analyst for B2B AI Startups
 
 - 🧠 6 years of experience at the intersection of **data analytics, automation, and product marketing** for Gen AI and SaaS companies.
-- ⚡ Currently @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic 10x using PostHog, MixPanel & full-funnel attribution.
+- ⚡ Currently @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic using content marketing, PostHog, MixPanel & full-funnel attribution.
 - 🤖 Building **AI workflows**, **voice agents**, and **technical blog content** that converts and educates.
-- 📈 Previously @ [Nanonets](https://www.nanonets.com) — grew signups from 0 ➝ 300+/month using behavior analytics & SQL dashboards.
-- 🧬 Built an **unsupervised Bayesian model** @ [AbbVie](https://www.abbvie.com) for disease prediction on 100M+ records — now in production.
+- 📈 Previously @ [Nanonets](https://www.nanonets.com) — grew signups using persona based content & using user behavior analytics.
+- 🧬 Built an **unsupervised Bayesian model** @ [AbbVie](https://www.abbvie.com) for disease prediction — now in production.
 - ⚙️ Automated 250+ workflows using **Zapier, Gumloop, Bedrock**, and **OpenAI APIs** to drive marketing & analytics efficiency.
 - 🎓 MS in Business Analytics ([UC Irvine](https://merage.uci.edu)), MBA ([IIM Calcutta](https://www.iimcal.ac.in)), BTech ([IIT Bombay](https://www.iitb.ac.in)).
 - 🧪 I build AI side projects (currently building a **Marathi-native Perplexity clone**) and write about analytics, AI, and growth.
