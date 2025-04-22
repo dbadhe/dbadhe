@@ -16,8 +16,9 @@
 
 ## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbadhe&layout=compact&hide=java,html,css&theme=dracula)
-![Dee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbadhe&show_icons=true&theme=dracula)
+![dbadhe's Stats](https://github-readme-stats.vercel.app/api?username=dbadhe&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+![dbadhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbadhe&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+![dbadhe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbadhe&theme=onedark&hide_border=false)
 
 ---
 
