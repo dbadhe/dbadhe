@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Dee!
 
-## 👩‍💻 I'm a Technical Marketer + Data Analyst for B2B AI Startups
+## 👩‍💻 I'm a Technical Marketer + Data Analyst 
 
 - 🧠 6 years of experience at the intersection of **data analytics, automation, and product marketing** for Gen AI and SaaS companies.
 - ⚡ Currently @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic using content marketing, PostHog, MixPanel & full-funnel attribution.
