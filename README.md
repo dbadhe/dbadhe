@@ -14,15 +14,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-![dbadhe's Stats](https://github-readme-stats.vercel.app/api?username=dbadhe&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-
-![dbadhe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbadhe&theme=slateorange&hide_border=true)
-
-![dbadhe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbadhe&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/dhanashree-badhe/)](https://www.linkedin.com/in/dhanashree-badhe/)
