@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Dee!
 
-## 👩‍💻 I'm a Technical Marketer + Data Analyst 
+## 👩‍💻 A little about me
 
-- 🧠 6 years of experience at the intersection of **data analytics, automation, and product marketing** for Gen AI and SaaS companies.
+- 🧠 6 years of experience at the intersection of **data analytics, automation, prod management and product marketing** for Gen AI and SaaS companies.
 - ⚡ Currently @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic using content marketing, PostHog, MixPanel & full-funnel attribution.
 - 🤖 Building **AI workflows**, **voice agents**, and **technical blog content** that converts and educates.
 - 📈 Previously @ [Nanonets](https://www.nanonets.com) — grew signups using persona based content & using user behavior analytics.
