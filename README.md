@@ -24,3 +24,5 @@
 
 Thanks for stopping by!💜  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dbadhe&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=195&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
