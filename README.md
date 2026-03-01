@@ -3,7 +3,8 @@
 ## 👩‍💻 A little about me
 
 - 🧠 6 years of experience at the intersection of **data analytics, automation, prod management and product marketing** for Gen AI and SaaS companies.
-- ⚡ Currently @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic using content marketing, PostHog, MixPanel & full-funnel attribution.
+- Currently @[FairSquare](https://www.fairsquare.com/) - building statistical credit risk models for small business lending.  
+- ⚡ Previously @ [Alltius](https://www.alltius.ai) — scaling pipeline and traffic using content marketing, PostHog, MixPanel & full-funnel attribution.
 - 🤖 Building **AI workflows**, **voice agents**, and **technical blog content** that converts and educates.
 - 📈 Previously @ [Nanonets](https://www.nanonets.com) — grew signups using persona based content & using user behavior analytics.
 - 🧬 Built an **unsupervised Bayesian model** @ [AbbVie](https://www.abbvie.com) for disease prediction — now in production.
